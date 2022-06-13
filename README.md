@@ -9,3 +9,5 @@ tempature & humadity sensor : https://arduinogetstarted.com/tutorials/arduino-te
 ulaTRA SONIC
 :https://wokwi.com/projects/334343126477963859
 https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+PIR
+https://wokwi.com/projects/334345672871379538
