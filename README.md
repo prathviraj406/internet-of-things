@@ -16,3 +16,4 @@ PIR
 https://wokwi.com/projects/334345672871379538
 INFROMATION
 https://create.arduino.cc/projecthub/biharilifehacker/arduino-with-pir-motion-sensor-fd540a
+IR:https://wokwi.com/projects/334347798007775826
