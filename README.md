@@ -21,3 +21,4 @@ led fade:https://wokwi.com/projects/334431846221742675
 button:https://wokwi.com/projects/334433168619733586
 motion sensor buzzer:https://wokwi.com/projects/334433831716127314
 button fade:https://wokwi.com/projects/334431341587202643
+infromation about ardino https://www.tutorialspoint.com/arduino/arduino_board_description.htm#:~:text=The%20Arduino%20UNO%20board%20has,be%20read%20by%20the%20microprocessor.&text=Each%20Arduino%20board%20has%20its%20own%20microcontroller%20(11).
