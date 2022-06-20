@@ -25,5 +25,5 @@ infromation about ardino https://www.tutorialspoint.com/arduino/arduino_board_de
 <br>
 12.Servo motor<br>
 https://wokwi.com/projects/334976704649888340<br> 
-13.servo potentiometer 
-https://wokwi.com/projects/334979197058417234
+13.servo potentiometer <br>
+https://wokwi.com/projects/334979197058417234<br>
