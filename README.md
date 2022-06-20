@@ -27,3 +27,5 @@ infromation about ardino https://www.tutorialspoint.com/arduino/arduino_board_de
 https://wokwi.com/projects/334976704649888340<br> 
 13.servo potentiometer <br>
 https://wokwi.com/projects/334979197058417234<br>
+14.Servo motor controlled by button<br>
+https://wokwi.com/projects/334977135889351250<br>
