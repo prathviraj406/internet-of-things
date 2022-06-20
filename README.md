@@ -24,4 +24,6 @@ https://create.arduino.cc/projecthub/biharilifehacker/arduino-with-pir-motion-se
 infromation about ardino https://www.tutorialspoint.com/arduino/arduino_board_description.htm#:~:text=The%20Arduino%20UNO%20board%20has,be%20read%20by%20the%20microprocessor.&text=Each%20Arduino%20board%20has%20its%20own%20microcontroller%20(11).<br>
 <br>
 12.Servo motor<br>
-https://wokwi.com/projects/334976704649888340<br>
+https://wokwi.com/projects/334976704649888340<br> 
+13.servo potentiometer 
+https://wokwi.com/projects/334979197058417234
