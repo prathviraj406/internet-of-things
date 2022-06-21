@@ -33,3 +33,5 @@ https://wokwi.com/projects/334977135889351250<br>
 https://wokwi.com/projects/335066652092662356<br>
 16.buzzer with button<br>
 https://wokwi.com/projects/335069682709037651<br>
+17.buzzer with uv<br>
+https://wokwi.com/projects/335072628259684947<br>
