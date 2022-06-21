@@ -30,3 +30,4 @@ https://wokwi.com/projects/334979197058417234<br>
 14.Servo motor controlled by button<br>
 https://wokwi.com/projects/334977135889351250<br>
 15.buzzer using resistor<br>
+https://wokwi.com/projects/335066652092662356<br>
