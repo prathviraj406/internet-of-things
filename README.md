@@ -3,9 +3,8 @@
 
 1.  https://wokwi.com/projects/333796636268429907<br>
 2.  https://wokwi.com/projects/333797944251646547<br>
-3.   https://wokwi.com/projects/333801274561528403<br>
-4.   Arduino RGB LED:https://wokwi.com/projects/333805042897257042<br>
-5.tempature & humadity sensor :https://wokwi.com/projects/334347223081943635<br>
+3.   Arduino RGB LED:https://wokwi.com/projects/333805042897257042<br>
+4.tempature & humadity sensor :https://wokwi.com/projects/334347223081943635<br>
 INFROMATION<br>
 https://arduinogetstarted.com/tutorials/arduino-temperature-humidity-sensor<br>
 
