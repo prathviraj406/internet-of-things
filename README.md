@@ -37,7 +37,7 @@ https://wokwi.com/projects/335069682709037651<br>
 https://wokwi.com/projects/335072628259684947<br>
 18.buzzer with different sounds<br>
 https://wokwi.com/projects/335066652092662356<br>
-19.buzzer with lrd and uv<br>
+19.buzzer with led and uv<br>
 https://wokwi.com/projects/335613483142873684<br>
 
 20.buzzer with uv<br>
