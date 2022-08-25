@@ -44,4 +44,6 @@ or
 <br>https://wokwi.com/projects/335613483142873684<br>
 
 20.buzzer with uv<br>
-https://wokwi.com/projects/335613237736243794
+https://wokwi.com/projects/335613237736243794<br>
+21.ldr<br>
+https://wokwi.com/projects/340953581857276500<br>
